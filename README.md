@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Python and SQL, and trying to learn R, Tableau, and advanced Excel skills.
 - 📫 How to reach me: feel free to contact me via LinkedIn www.linkedin.com/in/phoebecorser/
 
-Other profiles to look at:
+Other profiles of mine to look at:
 - Kaggle: www.kaggle.com/phoebec216
 - HackerRank: www.hackerrank.com/pic216
 - DataCamp: www.datacamp.com/profile/pic216
